@@ -1,0 +1,121 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.vyng.benchmark.test" >
+4
+5    <uses-sdk
+5-->/Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/build/intermediates/tmp/manifest/androidTest/release/manifestMerger3623004437079976779.xml:6:5-8:41
+6        android:minSdkVersion="23"
+6-->/Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/build/intermediates/tmp/manifest/androidTest/release/manifestMerger3623004437079976779.xml:7:9-35
+7        android:targetSdkVersion="30" />
+7-->/Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/build/intermediates/tmp/manifest/androidTest/release/manifestMerger3623004437079976779.xml:8:9-38
+8
+9    <instrumentation
+9-->/Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/build/intermediates/tmp/manifest/androidTest/release/manifestMerger3623004437079976779.xml:10:5-15:59
+10        android:name="androidx.benchmark.junit4.AndroidBenchmarkRunner"
+10-->/Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/build/intermediates/tmp/manifest/androidTest/release/manifestMerger3623004437079976779.xml:11:9-72
+11        android:functionalTest="false"
+11-->/Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/build/intermediates/tmp/manifest/androidTest/release/manifestMerger3623004437079976779.xml:12:9-39
+12        android:handleProfiling="false"
+12-->/Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/build/intermediates/tmp/manifest/androidTest/release/manifestMerger3623004437079976779.xml:13:9-40
+13        android:label="Tests for com.vyng.benchmark.test"
+13-->/Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/build/intermediates/tmp/manifest/androidTest/release/manifestMerger3623004437079976779.xml:14:9-58
+14        android:targetPackage="com.vyng.benchmark.test" />
+14-->/Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/build/intermediates/tmp/manifest/androidTest/release/manifestMerger3623004437079976779.xml:15:9-56
+15
+16    <queries>
+16-->[androidx.test:runner:1.4.0] /Users/harishsharma/.gradle/caches/transforms-2/files-2.1/671d3f2bf41fcf7034f7084f36e23249/runner-1.4.0/AndroidManifest.xml:24:5-28:15
+17        <package android:name="androidx.test.orchestrator" />
+17-->[androidx.test:runner:1.4.0] /Users/harishsharma/.gradle/caches/transforms-2/files-2.1/671d3f2bf41fcf7034f7084f36e23249/runner-1.4.0/AndroidManifest.xml:25:9-62
+17-->[androidx.test:runner:1.4.0] /Users/harishsharma/.gradle/caches/transforms-2/files-2.1/671d3f2bf41fcf7034f7084f36e23249/runner-1.4.0/AndroidManifest.xml:25:18-59
+18        <package android:name="androidx.test.services" />
+18-->[androidx.test:runner:1.4.0] /Users/harishsharma/.gradle/caches/transforms-2/files-2.1/671d3f2bf41fcf7034f7084f36e23249/runner-1.4.0/AndroidManifest.xml:26:9-58
+18-->[androidx.test:runner:1.4.0] /Users/harishsharma/.gradle/caches/transforms-2/files-2.1/671d3f2bf41fcf7034f7084f36e23249/runner-1.4.0/AndroidManifest.xml:26:18-55
+19        <package android:name="com.google.android.apps.common.testing.services" />
+19-->[androidx.test:runner:1.4.0] /Users/harishsharma/.gradle/caches/transforms-2/files-2.1/671d3f2bf41fcf7034f7084f36e23249/runner-1.4.0/AndroidManifest.xml:27:9-83
+19-->[androidx.test:runner:1.4.0] /Users/harishsharma/.gradle/caches/transforms-2/files-2.1/671d3f2bf41fcf7034f7084f36e23249/runner-1.4.0/AndroidManifest.xml:27:18-80
+20    </queries>
+21    <!--
+22    This is needed to write benchmark report data to an external directory during instrumented
+23    tests to allow the accompanying androidx.benchmark gradle plugin to pull the reports onto host
+24     machine after the tests are done running.
+25    -->
+26    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+26-->[androidx.benchmark:benchmark-common:1.0.0] /Users/harishsharma/.gradle/caches/transforms-2/files-2.1/cb0a5409c69243b185a78ec406c119ee/jetified-benchmark-common-1.0.0/AndroidManifest.xml:29:5-81
+26-->[androidx.benchmark:benchmark-common:1.0.0] /Users/harishsharma/.gradle/caches/transforms-2/files-2.1/cb0a5409c69243b185a78ec406c119ee/jetified-benchmark-common-1.0.0/AndroidManifest.xml:29:22-78
+27    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+28    <uses-permission android:name="android.permission.REORDER_TASKS" />
+28-->[androidx.test:core:1.4.0] /Users/harishsharma/.gradle/caches/transforms-2/files-2.1/a8ed2aaf9ccee213fa4b65a68a6b3e1a/jetified-core-1.4.0/AndroidManifest.xml:24:5-72
+28-->[androidx.test:core:1.4.0] /Users/harishsharma/.gradle/caches/transforms-2/files-2.1/a8ed2aaf9ccee213fa4b65a68a6b3e1a/jetified-core-1.4.0/AndroidManifest.xml:24:22-69
+29    <!--
+30      Important: disable debugging for accurate performance results
+31
+32      In a com.android.library project, this flag must be disabled from this
+33      manifest, as it is not possible to override this flag from Gradle.
+34    -->
+35    <application
+35-->/Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/build/intermediates/tmp/manifest/androidTest/release/manifestMerger3623004437079976779.xml:22:5-28:19
+36        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+36-->[androidx.core:core:1.6.0] /Users/harishsharma/.gradle/caches/transforms-2/files-2.1/71be6b2bc4045c181791e7c68ba84bc5/core-1.6.0/AndroidManifest.xml:24:18-86
+37        android:debuggable="false"
+37-->/Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/build/intermediates/tmp/manifest/androidTest/release/manifestMerger3623004437079976779.xml:23:9-35
+38        android:extractNativeLibs="false" >
+38-->/Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/build/intermediates/tmp/manifest/androidTest/release/manifestMerger3623004437079976779.xml:24:9-42
+39        <uses-library android:name="android.test.runner" />
+39-->/Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/build/intermediates/tmp/manifest/androidTest/release/manifestMerger3623004437079976779.xml:27:9-60
+39-->/Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/build/intermediates/tmp/manifest/androidTest/release/manifestMerger3623004437079976779.xml:27:23-57
+40        <!-- Activity used to block background content while benchmarks are running -->
+41        <activity
+41-->[androidx.benchmark:benchmark-common:1.0.0] /Users/harishsharma/.gradle/caches/transforms-2/files-2.1/cb0a5409c69243b185a78ec406c119ee/jetified-benchmark-common-1.0.0/AndroidManifest.xml:34:9-37:20
+42            android:name="androidx.benchmark.IsolationActivity"
+42-->[androidx.benchmark:benchmark-common:1.0.0] /Users/harishsharma/.gradle/caches/transforms-2/files-2.1/cb0a5409c69243b185a78ec406c119ee/jetified-benchmark-common-1.0.0/AndroidManifest.xml:35:13-64
+43            android:theme="@android:style/Theme.Light.NoTitleBar.Fullscreen" >
+43-->[androidx.benchmark:benchmark-common:1.0.0] /Users/harishsharma/.gradle/caches/transforms-2/files-2.1/cb0a5409c69243b185a78ec406c119ee/jetified-benchmark-common-1.0.0/AndroidManifest.xml:36:13-77
+44        </activity>
+45        <activity
+45-->[androidx.test:core:1.4.0] /Users/harishsharma/.gradle/caches/transforms-2/files-2.1/a8ed2aaf9ccee213fa4b65a68a6b3e1a/jetified-core-1.4.0/AndroidManifest.xml:27:9-34:20
+46            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
+46-->[androidx.test:core:1.4.0] /Users/harishsharma/.gradle/caches/transforms-2/files-2.1/a8ed2aaf9ccee213fa4b65a68a6b3e1a/jetified-core-1.4.0/AndroidManifest.xml:28:13-99
+47            android:exported="true"
+47-->[androidx.test:core:1.4.0] /Users/harishsharma/.gradle/caches/transforms-2/files-2.1/a8ed2aaf9ccee213fa4b65a68a6b3e1a/jetified-core-1.4.0/AndroidManifest.xml:29:13-36
+48            android:theme="@android:style/Theme" >
+48-->[androidx.test:core:1.4.0] /Users/harishsharma/.gradle/caches/transforms-2/files-2.1/a8ed2aaf9ccee213fa4b65a68a6b3e1a/jetified-core-1.4.0/AndroidManifest.xml:30:13-49
+49            <intent-filter>
+49-->[androidx.test:core:1.4.0] /Users/harishsharma/.gradle/caches/transforms-2/files-2.1/a8ed2aaf9ccee213fa4b65a68a6b3e1a/jetified-core-1.4.0/AndroidManifest.xml:31:13-33:29
+50                <action android:name="android.intent.action.MAIN" />
+50-->[androidx.test:core:1.4.0] /Users/harishsharma/.gradle/caches/transforms-2/files-2.1/a8ed2aaf9ccee213fa4b65a68a6b3e1a/jetified-core-1.4.0/AndroidManifest.xml:32:17-69
+50-->[androidx.test:core:1.4.0] /Users/harishsharma/.gradle/caches/transforms-2/files-2.1/a8ed2aaf9ccee213fa4b65a68a6b3e1a/jetified-core-1.4.0/AndroidManifest.xml:32:25-66
+51            </intent-filter>
+52        </activity>
+53        <activity
+53-->[androidx.test:core:1.4.0] /Users/harishsharma/.gradle/caches/transforms-2/files-2.1/a8ed2aaf9ccee213fa4b65a68a6b3e1a/jetified-core-1.4.0/AndroidManifest.xml:35:9-42:20
+54            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
+54-->[androidx.test:core:1.4.0] /Users/harishsharma/.gradle/caches/transforms-2/files-2.1/a8ed2aaf9ccee213fa4b65a68a6b3e1a/jetified-core-1.4.0/AndroidManifest.xml:36:13-95
+55            android:exported="true"
+55-->[androidx.test:core:1.4.0] /Users/harishsharma/.gradle/caches/transforms-2/files-2.1/a8ed2aaf9ccee213fa4b65a68a6b3e1a/jetified-core-1.4.0/AndroidManifest.xml:37:13-36
+56            android:theme="@android:style/Theme" >
+56-->[androidx.test:core:1.4.0] /Users/harishsharma/.gradle/caches/transforms-2/files-2.1/a8ed2aaf9ccee213fa4b65a68a6b3e1a/jetified-core-1.4.0/AndroidManifest.xml:38:13-49
+57            <intent-filter>
+57-->[androidx.test:core:1.4.0] /Users/harishsharma/.gradle/caches/transforms-2/files-2.1/a8ed2aaf9ccee213fa4b65a68a6b3e1a/jetified-core-1.4.0/AndroidManifest.xml:31:13-33:29
+58                <action android:name="android.intent.action.MAIN" />
+58-->[androidx.test:core:1.4.0] /Users/harishsharma/.gradle/caches/transforms-2/files-2.1/a8ed2aaf9ccee213fa4b65a68a6b3e1a/jetified-core-1.4.0/AndroidManifest.xml:32:17-69
+58-->[androidx.test:core:1.4.0] /Users/harishsharma/.gradle/caches/transforms-2/files-2.1/a8ed2aaf9ccee213fa4b65a68a6b3e1a/jetified-core-1.4.0/AndroidManifest.xml:32:25-66
+59            </intent-filter>
+60        </activity>
+61        <activity
+61-->[androidx.test:core:1.4.0] /Users/harishsharma/.gradle/caches/transforms-2/files-2.1/a8ed2aaf9ccee213fa4b65a68a6b3e1a/jetified-core-1.4.0/AndroidManifest.xml:43:9-50:20
+62            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
+62-->[androidx.test:core:1.4.0] /Users/harishsharma/.gradle/caches/transforms-2/files-2.1/a8ed2aaf9ccee213fa4b65a68a6b3e1a/jetified-core-1.4.0/AndroidManifest.xml:44:13-103
+63            android:exported="true"
+63-->[androidx.test:core:1.4.0] /Users/harishsharma/.gradle/caches/transforms-2/files-2.1/a8ed2aaf9ccee213fa4b65a68a6b3e1a/jetified-core-1.4.0/AndroidManifest.xml:45:13-36
+64            android:theme="@android:style/Theme.Dialog" >
+64-->[androidx.test:core:1.4.0] /Users/harishsharma/.gradle/caches/transforms-2/files-2.1/a8ed2aaf9ccee213fa4b65a68a6b3e1a/jetified-core-1.4.0/AndroidManifest.xml:46:13-56
+65            <intent-filter>
+65-->[androidx.test:core:1.4.0] /Users/harishsharma/.gradle/caches/transforms-2/files-2.1/a8ed2aaf9ccee213fa4b65a68a6b3e1a/jetified-core-1.4.0/AndroidManifest.xml:31:13-33:29
+66                <action android:name="android.intent.action.MAIN" />
+66-->[androidx.test:core:1.4.0] /Users/harishsharma/.gradle/caches/transforms-2/files-2.1/a8ed2aaf9ccee213fa4b65a68a6b3e1a/jetified-core-1.4.0/AndroidManifest.xml:32:17-69
+66-->[androidx.test:core:1.4.0] /Users/harishsharma/.gradle/caches/transforms-2/files-2.1/a8ed2aaf9ccee213fa4b65a68a6b3e1a/jetified-core-1.4.0/AndroidManifest.xml:32:25-66
+67            </intent-filter>
+68        </activity>
+69    </application>
+70
+71</manifest>

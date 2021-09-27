@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/src/main/AndroidManifest.xml:2:1-42
+INJECTED from /Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/src/main/AndroidManifest.xml:2:1-42
+INJECTED from /Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/src/main/AndroidManifest.xml:2:1-42
+INJECTED from /Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/src/main/AndroidManifest.xml:2:1-42
+INJECTED from /Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/src/main/AndroidManifest.xml:2:1-42
+INJECTED from /Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/src/main/AndroidManifest.xml:2:1-42
+INJECTED from /Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/src/main/AndroidManifest.xml:2:1-42
+	package
+		ADDED from /Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/src/main/AndroidManifest.xml:2:11-39
+		INJECTED from /Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/src/main/AndroidManifest.xml
+		INJECTED from /Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/src/main/AndroidManifest.xml
+		ADDED from /Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/src/main/AndroidManifest.xml:2:1-42
+		INJECTED from /Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/src/main/AndroidManifest.xml:2:1-42
+	android:versionCode
+		INJECTED from /Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/src/main/AndroidManifest.xml
+		ADDED from /Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/src/main/AndroidManifest.xml:2:1-42
+		INJECTED from /Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/src/main/AndroidManifest.xml
+uses-sdk
+INJECTED from /Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/src/main/AndroidManifest.xml
+INJECTED from /Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/src/main/AndroidManifest.xml
+INJECTED from /Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/src/main/AndroidManifest.xml
+INJECTED from /Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/src/main/AndroidManifest.xml
+		ADDED from /Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/src/main/AndroidManifest.xml
+		INJECTED from /Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/src/main/AndroidManifest.xml
+		ADDED from /Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/src/main/AndroidManifest.xml
+		INJECTED from /Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/src/main/AndroidManifest.xml

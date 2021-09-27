@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/harishsharma/.gradle/caches/transforms-2/files-2.1/71be6b2bc4045c181791e7c68ba84bc5/core-1.6.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/harishsharma/.gradle/caches/transforms-2/files-2.1/71be6b2bc4045c181791e7c68ba84bc5/core-1.6.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/harishsharma/.gradle/caches/transforms-2/files-2.1/71be6b2bc4045c181791e7c68ba84bc5/core-1.6.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/harishsharma/.gradle/caches/transforms-2/files-2.1/71be6b2bc4045c181791e7c68ba84bc5/core-1.6.0/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

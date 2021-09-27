@@ -1,0 +1,2 @@
+com/vyng/benchmark/BuildConfig.java
+ com.vyng.benchmark.BuildConfig

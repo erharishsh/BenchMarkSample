@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/build/intermediates/res/merged/release/layout-sw600dp-v13/mtrl_layout_snackbar.xml",
+        "source": "/Users/harishsharma/.gradle/caches/transforms-2/files-2.1/1fdcaa82f29d580c2973aaa5b5ecdd04/material-1.4.0/res/layout-sw600dp-v13/mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/build/intermediates/res/merged/release/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Users/harishsharma/.gradle/caches/transforms-2/files-2.1/1fdcaa82f29d580c2973aaa5b5ecdd04/material-1.4.0/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    }
+]

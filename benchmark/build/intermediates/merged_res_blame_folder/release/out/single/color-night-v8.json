@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/build/intermediates/res/merged/release/color-night-v8/material_timepicker_button_stroke.xml",
+        "source": "/Users/harishsharma/.gradle/caches/transforms-2/files-2.1/1fdcaa82f29d580c2973aaa5b5ecdd04/material-1.4.0/res/color-night-v8/material_timepicker_button_stroke.xml"
+    },
+    {
+        "merged": "/Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/build/intermediates/res/merged/release/color-night-v8/material_timepicker_modebutton_tint.xml",
+        "source": "/Users/harishsharma/.gradle/caches/transforms-2/files-2.1/1fdcaa82f29d580c2973aaa5b5ecdd04/material-1.4.0/res/color-night-v8/material_timepicker_modebutton_tint.xml"
+    },
+    {
+        "merged": "/Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/build/intermediates/res/merged/release/color-night-v8/material_timepicker_clockface.xml",
+        "source": "/Users/harishsharma/.gradle/caches/transforms-2/files-2.1/1fdcaa82f29d580c2973aaa5b5ecdd04/material-1.4.0/res/color-night-v8/material_timepicker_clockface.xml"
+    }
+]

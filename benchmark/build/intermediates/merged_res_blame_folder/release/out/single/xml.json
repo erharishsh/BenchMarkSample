@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/build/intermediates/res/merged/release/xml/standalone_badge_gravity_top_start.xml",
+        "source": "/Users/harishsharma/.gradle/caches/transforms-2/files-2.1/1fdcaa82f29d580c2973aaa5b5ecdd04/material-1.4.0/res/xml/standalone_badge_gravity_top_start.xml"
+    },
+    {
+        "merged": "/Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/build/intermediates/res/merged/release/xml/standalone_badge_offset.xml",
+        "source": "/Users/harishsharma/.gradle/caches/transforms-2/files-2.1/1fdcaa82f29d580c2973aaa5b5ecdd04/material-1.4.0/res/xml/standalone_badge_offset.xml"
+    },
+    {
+        "merged": "/Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/build/intermediates/res/merged/release/xml/standalone_badge_gravity_bottom_end.xml",
+        "source": "/Users/harishsharma/.gradle/caches/transforms-2/files-2.1/1fdcaa82f29d580c2973aaa5b5ecdd04/material-1.4.0/res/xml/standalone_badge_gravity_bottom_end.xml"
+    },
+    {
+        "merged": "/Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/build/intermediates/res/merged/release/xml/standalone_badge_gravity_bottom_start.xml",
+        "source": "/Users/harishsharma/.gradle/caches/transforms-2/files-2.1/1fdcaa82f29d580c2973aaa5b5ecdd04/material-1.4.0/res/xml/standalone_badge_gravity_bottom_start.xml"
+    },
+    {
+        "merged": "/Users/harishsharma/AndroidStudioProjects/Benchmarksession/benchmark/build/intermediates/res/merged/release/xml/standalone_badge.xml",
+        "source": "/Users/harishsharma/.gradle/caches/transforms-2/files-2.1/1fdcaa82f29d580c2973aaa5b5ecdd04/material-1.4.0/res/xml/standalone_badge.xml"
+    }
+]
